@@ -1,0 +1,6 @@
+{
+  "name": "Vattara DataGuard AI",
+  "description": "Enterprise AI-assisted data quality and annotation verification platform for multi-industry datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
